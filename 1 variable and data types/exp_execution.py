@@ -1,0 +1,60 @@
+#STRING AND NUMERIC VALUES CAN TOGETHER OPERATE WITH *
+A,B=2,3
+Txt="@"
+print(2*Txt*3)
+
+# STRING AND STRING CAN OPERATE WITH +(catenation)
+C,D="4",5
+Txt="@"
+print((C+Txt)*D)
+
+# NUMERIC VALUES CAN OPERATE WITH ALL ARITHMETIC OPERATORS
+E,F=2,3
+G=4
+print(E+F*G)
+
+
+# ARITHMETIC OPERATORS WITH INTEGER AND FLOAT WILL RESULT IN FLOAT 
+H,I=10,5.0
+J=H*I
+print(J)
+
+# RESULT OF DIVISION OPERATOR WITH TWO INTEGERS WILL BE FLOAT 
+K,L=1,2
+M=K/L
+print(M)
+
+
+# INTEGER DIVISION WITH FLOAT AND INT WILL GIVE INT DISPLAYED AS FLOAT
+N,O=1.5,3
+P=N//O
+print(P)
+
+#floor gives closest integer ,which is lesser than or equal to the float value
+# Result of (A//B)is same as floor(A/B)
+
+A,B=12,5
+C=A//B
+print(C)
+
+C,D=-12,5
+E=C//D
+print(E)
+
+F,G=12,-5
+H=F//G
+print(H)
+
+#REMAINDER IS NEGATVE WHEN DENOMINATOR IS NEGATIVE
+
+A,B=-5,2
+C=A%B
+print(C)
+
+A,B=5,2
+C=A%B   
+print(C)
+
+A,B=5,-2
+C=A%B
+print(C)
