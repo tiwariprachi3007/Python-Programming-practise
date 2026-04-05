@@ -1,9 +1,10 @@
+#This is my first program in python
 print("Hello, World!")
 
 print("I am Prachi !","I am a Btech CSE first year student ")
 
-print("yo ! what's up?")
 
+#BASIC DATA TYPES IN PYTHON
 name="prachi"
 age=19
 age2=age
@@ -15,7 +16,7 @@ print(type(name))
 print(type(age))
 
 
-age=23
+
 old=False
 a=None
 
