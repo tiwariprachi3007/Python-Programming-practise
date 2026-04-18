@@ -1,4 +1,5 @@
 🐍 Python Programming Practice
+
 This repository is my first step into Python programming, organized into folders and files that demonstrate fundamental concepts like variables, data types, expressions, and simple programs.
 
 
