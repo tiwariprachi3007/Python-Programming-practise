@@ -1,6 +1,7 @@
-# 🐍 Python Programming Practice
 
-This repository is my first step into Python programming, organized into folders and files that demonstrate fundamental concepts like variables, data types, expressions, and simple programs.
+   # 🐍 Python Programming Practice
+
+This repository is my first step into Python programming, organized into folders and files that demonstrate fundamental concepts like variables, data types, expressions, conditionals, loops, functions, recursion, file handling, lists, tuples, dictionaries, and sets.
 
 ---
 
@@ -84,5 +85,6 @@ This repository is my first step into Python programming, organized into folders
 ## 🚀 How to Run
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/your-username/Python-Programming-practise.git
+   git clone https://github.com/tiwariprachi3007/Python-Programming-practise.git
    cd Python-Programming-practise
+
