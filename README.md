@@ -1,5 +1,4 @@
-
-   # 🐍 Python Programming Practice
+# 🐍 Python Programming Practice
 
 This repository is my first step into Python programming, organized into folders and files that demonstrate fundamental concepts like variables, data types, expressions, conditionals, loops, functions, recursion, file handling, lists, tuples, dictionaries, and sets.
 
